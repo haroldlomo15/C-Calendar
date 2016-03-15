@@ -1,0 +1,118 @@
+Enter the year :
+2010
+Enter the start date <0 = Sun, 1 = Mon, 2 = Tues,
+3 = Wed, 4 = Thurs, 5 = Fri, 6 = Sat> : 3
+
+YEAR-- 2010
+
+
+
+January
+
+Sun : Mon : Tue : Wed : Thu : Fri : Sat :
+	  1       2       3       4
+	  5       6       7       8       9       10      11
+	  12      13      14      15      16      17      18
+	  19      20      21      22      23      24      25
+	  26      27      28      29      30
+
+	  February
+
+  Sun : Mon : Tue : Wed : Thu : Fri : Sat :
+		1       2
+		3       4       5       6       7       8       9
+		10      11      12      13      14      15      16
+		17      18      19      20      21      22      23
+		24      25      26      27
+
+		March
+
+	Sun : Mon : Tue : Wed : Thu : Fri : Sat :
+		  1       2       3
+		  4       5       6       7       8       9       10
+		  11      12      13      14      15      16      17
+		  18      19      20      21      22      23      24
+		  25      26      27      28      29      30
+
+		  April
+
+	  Sun : Mon : Tue : Wed : Thu : Fri : Sat :
+			1
+			2       3       4       5       6       7       8
+			9       10      11      12      13      14      15
+			16      17      18      19      20      21      22
+			23      24      25      26      27      28      29
+
+
+			May
+
+		Sun : Mon : Tue : Wed : Thu : Fri : Sat :
+			  1       2       3       4       5       6       7
+			  8       9       10      11      12      13      14
+			  15      16      17      18      19      20      21
+			  22      23      24      25      26      27      28
+			  29      30
+
+			  June
+
+		  Sun : Mon : Tue : Wed : Thu : Fri : Sat :
+				1       2       3       4       5
+				6       7       8       9       10      11      12
+				13      14      15      16      17      18      19
+				20      21      22      23      24      25      26
+				27      28      29
+
+				July
+
+			Sun : Mon : Tue : Wed : Thu : Fri : Sat :
+				  1       2       3       4
+				  5       6       7       8       9       10      11
+				  12      13      14      15      16      17      18
+				  19      20      21      22      23      24      25
+				  26      27      28      29      30
+
+				  August
+
+			  Sun : Mon : Tue : Wed : Thu : Fri : Sat :
+					1       2
+					3       4       5       6       7       8       9
+					10      11      12      13      14      15      16
+					17      18      19      20      21      22      23
+					24      25      26      27      28      29      30
+
+
+					September
+
+				Sun : Mon : Tue : Wed : Thu : Fri : Sat :
+					  1       2       3       4       5       6       7
+					  8       9       10      11      12      13      14
+					  15      16      17      18      19      20      21
+					  22      23      24      25      26      27      28
+					  29
+
+					  October
+
+				  Sun : Mon : Tue : Wed : Thu : Fri : Sat :
+						1       2       3       4       5       6
+						7       8       9       10      11      12      13
+						14      15      16      17      18      19      20
+						21      22      23      24      25      26      27
+						28      29      30
+
+						November
+
+					Sun : Mon : Tue : Wed : Thu : Fri : Sat :
+						  1       2       3       4
+						  5       6       7       8       9       10      11
+						  12      13      14      15      16      17      18
+						  19      20      21      22      23      24      25
+						  26      27      28      29
+
+						  December
+
+					  Sun : Mon : Tue : Wed : Thu : Fri : Sat :
+							1       2       3
+							4       5       6       7       8       9       10
+							11      12      13      14      15      16      17
+							18      19      20      21      22      23      24
+							25      26      27      28      29      30
